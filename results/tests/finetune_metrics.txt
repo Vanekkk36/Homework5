@@ -1,0 +1,4 @@
+Final train loss: 0.1061
+Final val loss: 5.1541
+Final train acc: 0.9722
+Final val acc: 0.8333

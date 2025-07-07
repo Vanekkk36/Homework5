@@ -1,0 +1,4 @@
+Size: 64 | Time: 0.50s | Mem: 1.50 MB
+Size: 128 | Time: 0.56s | Mem: 19.72 MB
+Size: 224 | Time: 0.66s | Mem: 44.31 MB
+Size: 512 | Time: 1.26s | Mem: 262.64 MB
